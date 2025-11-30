@@ -1,7 +1,7 @@
             DISCORDIAN PUBLIC LICENSE 
-                    Version 0.23, May 2021 
+                    Version 0.23, May 2026 
 
- Copyleft (C) 2021 kalipso <kalipso@c3d2.de> 
+ Copyleft (C) 2026 kalipso <kalipso@c3d2.de> 
 
  Everyone is permitted to copy and distribute verbatim or modified
  copies of this license document.
